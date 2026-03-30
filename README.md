@@ -23,14 +23,6 @@ The repository includes:
 - Functional testing  
 - UI testing  
 - Negative testing  
-- Basic UX validation  
-
-### Covered scenarios:
-- Events list отображення  
-- Navigation to event details  
-- Registration with valid data  
-- Form validation (email, password, empty fields)  
-- Password visibility toggle  
 
 ---
 
