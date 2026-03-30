@@ -61,7 +61,7 @@
 
 ## Test Case 4: Toggle password visibility
 
-**ID:** TC-REG-006  
+**ID:** TC-REG-004  
 **Title:** User can show/hide password  
 
 **Preconditions:**
