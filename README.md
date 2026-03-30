@@ -3,7 +3,6 @@
 ## 📌 Project Description
 This repository contains manual test cases for the **GreenCity Events page** and **Registration form**.
 
-The goal of this project is to practice test case design, validation checks, and UI/UX testing using real web application scenarios.
 
 ---
 
