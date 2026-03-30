@@ -1,12 +1,12 @@
-# 🌱 GreenCity Tests
+# GreenCity Tests
 
-## 📌 Project Description
+## Project Description
 This repository contains manual test cases for the **GreenCity Events page** and **Registration form**.
 
 
 ---
 
-## 🔗 Tested Pages
+## Tested Pages
 
 - Events page:  
 https://www.greencity.cx.ua/#/greenCity/events  
@@ -15,7 +15,7 @@ https://www.greencity.cx.ua/#/greenCity/events
 
 ---
 
-## 🧪 Test Coverage
+## Test Coverage
 
 The repository includes:
 
@@ -25,7 +25,7 @@ The repository includes:
 
 ---
 
-## 👤 Author
+## Author
 
 **Taras Mahometa**
 
